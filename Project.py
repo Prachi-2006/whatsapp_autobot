@@ -9,7 +9,7 @@
 # import pyttsx3
 
 # # Configure Gemini API
-# genai.configure(api_key="AIzaSyCXtWopzRxTB-2UaScJnm_Ac0nwdpj7pfs")  # Replace with your actual key
+# genai.configure(api_key  # Replace with your actual key
 
 # # Initialize text-to-speech engine
 # engine = pyttsx3.init()
@@ -158,7 +158,7 @@
 # import pyttsx3
 
 # #  Configure Gemini
-# genai.configure(api_key="AIzaSyCXtWopzRxTB-2UaScJnm_Ac0nwdpj7pfs")  # Replace with your actual key
+# genai.configure(api_key="")  # Replace with your actual key
 
 # #  Init TTS
 # engine = pyttsx3.init()
